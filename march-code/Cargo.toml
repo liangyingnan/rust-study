@@ -1,0 +1,8 @@
+[package]
+name = "march-code"
+version = "0.1.0"
+edition = "2021"
+authors = ["liangyingnan <liangyingn@163.com>"]
+description = "一个简单的命令行任务管理系统"
+[dependencies]
+chrono = "0.4" 
