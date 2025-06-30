@@ -1,0 +1,13 @@
+{
+  "name": "配置管理器示例",
+  "version": "1.0.0",
+  "settings": {
+    "language": "zh-CN",
+    "theme": "dark"
+  },
+  "features": [
+    "logging",
+    "caching"
+  ],
+  "debug": false
+}
