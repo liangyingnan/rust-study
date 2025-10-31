@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "app",
+    "crates/model",
+    "crates/http",
+]
+resolver = "2"
