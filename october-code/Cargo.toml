@@ -1,0 +1,20 @@
+[package]
+name = "performance-optimization-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8"
+
+[dev-dependencies]
+criterion = { version = "0.5", features = ["html_reports"] }
+
+[[bench]]
+name = "data_processing_bench"
+harness = false
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+
