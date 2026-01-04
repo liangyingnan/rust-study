@@ -1,0 +1,238 @@
+   0.022929900s  INFO prepare_target{force=false package_id=macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code) target="macro_examples"}: cargo::core::compiler::fingerprint: fingerprint error for macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code)/Check { test: false }/TargetInner { ..: lib_target("macro_examples", ["lib"], "F:\\工作\\学习计划\\11月\\november-code\\src\\lib.rs", Edition2021) }
+   0.022972500s  INFO prepare_target{force=false package_id=macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code) target="macro_examples"}: cargo::core::compiler::fingerprint:     err: failed to read `F:\工作\学习计划\11月\november-code\target\debug\.fingerprint\macro-examples-a362d92a9062396d\lib-macro_examples`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.031667000s  INFO prepare_target{force=false package_id=serde v1.0.228 target="serde"}: cargo::core::compiler::fingerprint: fingerprint error for serde v1.0.228/Check { test: false }/TargetInner { ..: lib_target("serde", ["lib"], "D:\\Program Files\\developer\\cargo\\registry\\src\\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\\serde-1.0.228\\src\\lib.rs", Edition2021) }
+   0.031680800s  INFO prepare_target{force=false package_id=serde v1.0.228 target="serde"}: cargo::core::compiler::fingerprint:     err: failed to read `F:\工作\学习计划\11月\november-code\target\debug\.fingerprint\serde-754b3b5017b1b39c\lib-serde`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.032429900s  INFO prepare_target{force=false package_id=serde_core v1.0.228 target="serde_core"}: cargo::core::compiler::fingerprint: fingerprint error for serde_core v1.0.228/Check { test: false }/TargetInner { ..: lib_target("serde_core", ["lib"], "D:\\Program Files\\developer\\cargo\\registry\\src\\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\\serde_core-1.0.228\\src\\lib.rs", Edition2021) }
+   0.032442500s  INFO prepare_target{force=false package_id=serde_core v1.0.228 target="serde_core"}: cargo::core::compiler::fingerprint:     err: failed to read `F:\工作\学习计划\11月\november-code\target\debug\.fingerprint\serde_core-f9c54758a275c741\lib-serde_core`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.035072600s  INFO prepare_target{force=false package_id=serde_json v1.0.148 target="serde_json"}: cargo::core::compiler::fingerprint: fingerprint error for serde_json v1.0.148/Check { test: false }/TargetInner { ..: lib_target("serde_json", ["lib"], "D:\\Program Files\\developer\\cargo\\registry\\src\\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\\serde_json-1.0.148\\src\\lib.rs", Edition2021) }
+   0.035090200s  INFO prepare_target{force=false package_id=serde_json v1.0.148 target="serde_json"}: cargo::core::compiler::fingerprint:     err: failed to read `F:\工作\学习计划\11月\november-code\target\debug\.fingerprint\serde_json-706c5d0b4844e0ec\lib-serde_json`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_libgit2_prerelease
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   0.035656300s  INFO prepare_target{force=false package_id=memchr v2.7.6 target="memchr"}: cargo::core::compiler::fingerprint: fingerprint error for memchr v2.7.6/Check { test: false }/TargetInner { benched: false, ..: lib_target("memchr", ["lib"], "D:\\Program Files\\developer\\cargo\\registry\\src\\mirrors.tuna.tsinghua.edu.cn-e791a3f93f26854f\\memchr-2.7.6\\src\\lib.rs", Edition2021) }
+   0.035674800s  INFO prepare_target{force=false package_id=memchr v2.7.6 target="memchr"}: cargo::core::compiler::fingerprint:     err: failed to read `F:\工作\学习计划\11月\november-code\target\debug\.fingerprint\memchr-a943e3526722948d\lib-memchr`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_libgit2_prerelease
+  14: <unknown>
+  15: <unknown>
+  16: <unknown>
+  17: <unknown>
+  18: git_midx_writer_dump
+  19: git_filter_source_repo
+  20: git_midx_writer_dump
+  21: BaseThreadInitThunk
+  22: RtlUserThreadStart
+   0.036900600s  INFO prepare_target{force=false package_id=macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code) target="macro_examples"}: cargo::core::compiler::fingerprint: fingerprint error for macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code)/Check { test: true }/TargetInner { ..: lib_target("macro_examples", ["lib"], "F:\\工作\\学习计划\\11月\\november-code\\src\\lib.rs", Edition2021) }
+   0.036916600s  INFO prepare_target{force=false package_id=macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code) target="macro_examples"}: cargo::core::compiler::fingerprint:     err: failed to read `F:\工作\学习计划\11月\november-code\target\debug\.fingerprint\macro-examples-58e54a948f69810a\test-lib-macro_examples`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.037298000s  INFO prepare_target{force=false package_id=macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code) target="main"}: cargo::core::compiler::fingerprint: fingerprint error for macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code)/Check { test: false }/TargetInner { name: "main", doc: true, ..: with_path("F:\\工作\\学习计划\\11月\\november-code\\src\\main.rs", Edition2021) }
+   0.037322600s  INFO prepare_target{force=false package_id=macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code) target="main"}: cargo::core::compiler::fingerprint:     err: failed to read `F:\工作\学习计划\11月\november-code\target\debug\.fingerprint\macro-examples-54185145ed43d867\bin-main`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.037591200s  INFO prepare_target{force=false package_id=macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code) target="main"}: cargo::core::compiler::fingerprint: fingerprint error for macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code)/Check { test: true }/TargetInner { name: "main", doc: true, ..: with_path("F:\\工作\\学习计划\\11月\\november-code\\src\\main.rs", Edition2021) }
+   0.037605600s  INFO prepare_target{force=false package_id=macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code) target="main"}: cargo::core::compiler::fingerprint:     err: failed to read `F:\工作\学习计划\11月\november-code\target\debug\.fingerprint\macro-examples-500006b94bc6db71\test-bin-main`
+
+Caused by:
+    系统找不到指定的文件。 (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_repo
+   6: git_filter_source_repo
+   7: git_filter_source_repo
+   8: git_filter_source_repo
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_libgit2_prerelease
+  12: <unknown>
+  13: <unknown>
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking memchr v2.7.6
+    Checking serde_core v1.0.228
+    Checking serde_json v1.0.148
+    Checking serde v1.0.228
+    Checking macro-examples v0.1.0 (F:\工作\学习计划\11月\november-code)
+error: could not compile `macro-examples` (bin "main") due to 22 previous errors; 1 warning emitted
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `macro-examples` (bin "main" test) due to 28 previous errors; 1 warning emitted
